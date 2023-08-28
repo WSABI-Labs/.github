@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img src="assets/gradient_horzAsset 38.png" alt="WSABI-Labs" width="50%">
+    <img src="https://github.com/WSABI-Labs/.github/blob/main/gradient_horzAsset%2038.png" alt="WSABI-Labs" width="50%">
 </p>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/LoadingALIAS)](https://twitter.com/LoadingALIAS)
